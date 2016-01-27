@@ -6,7 +6,8 @@
     Using This project we can capture all the information of a device for UI development
 
 ![DeviceUiIdentifier](https://github.com/devrath/DeviceUiIdentifier/blob/master/snapshot.png)
-![DeviceUiIdentifier](https://github.com/devrath/DeviceUiIdentifier/blob/master/doc.png)
+.
+![DeviceUiIdentifier](https://github.com/devrath/DeviceUiIdentifier/blob/master/doc.PNG)
 
 
 ---
